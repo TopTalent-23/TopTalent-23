@@ -78,6 +78,7 @@ I love tackling complex challenges, mentoring developers, and delivering project
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 
 </div>
+
 ## 📫 How to connect
 I'm always excited to collaborate on innovative projects. Feel free to reach out via email or connect with me on LinkedIn.
 
