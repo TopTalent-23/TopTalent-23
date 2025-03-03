@@ -80,7 +80,6 @@ I love tackling complex challenges, mentoring developers, and delivering project
 </div>
 
 ## 📫 How to connect
-I'm always excited to collaborate on innovative projects. Feel free to reach out via email or connect with me on LinkedIn.
-
+I'm always excited to collaborate on innovative projects. Feel free to reach out via [Email](mailto:your-email@example.com) or connect with me on [LinkedIn](https://linkedin.com/in/yourprofile).
 - Email: mathieusleger4@gmail.com
 - GitHub: https://
